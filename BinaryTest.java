@@ -25,6 +25,6 @@ public class BinaryTest {
         int hex = 0x78;
         System.out.println("hex = " + hex);
         int bin = 0b01111011;
-        System.out.println("bin = " + bin);
+        System.out.println("bin = " + bin); // 모두 123으로 출력이 된다.
     }
 }
